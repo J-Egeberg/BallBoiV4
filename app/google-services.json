@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "344679644765",
+    "firebase_url": "https://fantasticproject-fce02.firebaseio.com",
+    "project_id": "fantasticproject-fce02",
+    "storage_bucket": "fantasticproject-fce02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344679644765:android:9ef7d1f5880f3eb9",
+        "android_client_info": {
+          "package_name": "oakberg.dk.mytemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344679644765-s48shc8qkv4q51ltq1aeeg66r920khsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZnLFnUll8w3Wf0ecwy0zaZVbOxvifWVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
