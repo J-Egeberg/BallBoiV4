@@ -36,6 +36,37 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344679644765:android:5c3b45827af9bced",
+        "android_client_info": {
+          "package_name": "oakberg.dk.BallBoiV4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344679644765-s48shc8qkv4q51ltq1aeeg66r920khsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZnLFnUll8w3Wf0ecwy0zaZVbOxvifWVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"
